@@ -12,7 +12,7 @@ This project analyzes Netflix data using Python and Jupyter Notebook to uncover 
 Here are some sample visualizations from the analysis:
 
 ### 🎞️ Output 1
-![Output 1]()
+![Output 1](https://github.com/Krishnakumari29/Netflix_project/blob/main/output1.png?raw=true)
 
 ### 📊 Output 2
 ![Output 2]()
