@@ -15,7 +15,7 @@ Here are some sample visualizations from the analysis:
 ![Output 1](https://github.com/Krishnakumari29/Netflix_project/blob/main/output1.png?raw=true)
 
 ### 📊 Output 2
-![Output 2]()
+![Output 2](https://github.com/Krishnakumari29/Netflix_project/blob/main/output2.png?raw=true)
 
 ## 📌 Tools Used
 
