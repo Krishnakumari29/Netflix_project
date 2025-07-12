@@ -18,14 +18,12 @@ Here are some sample visualizations from the analysis:
 ![Output 2](https://github.com/Krishnakumari29/Netflix_project/blob/main/output2.png?raw=true)
 
 ## 📌 Tools Used
-
 - Python
 - Pandas
 - Matplotlib / Seaborn
 - Jupyter Notebook
 
 ## 📈 Topics Covered
-
 - Number of movies and shows added over time
 - Most common genres
 - Country-wise distribution
@@ -33,7 +31,6 @@ Here are some sample visualizations from the analysis:
 - Rating categories
 
 ## 🚀 How to Run
-
-1. Clone the repo:
+Clone the repo:
    ```bash
    git clone https://github.com/Krishnakumari29/Netflix_project.git
